@@ -11,5 +11,6 @@ Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-
+2 - Projeto DIO - Conceitos de Padrões de Projeto
+Esse está divido em dois projetos, um usando java "puro" e outro usando Spring.
 ---------------------------------------------
